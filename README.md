@@ -23,7 +23,6 @@ Passionate about creating user-friendly and visually appealing digital experienc
   - User Research
 
 - 📫 Reach me at: **ydreyannramirez035@gmail.com**
-- 📄 View my resume: [Resume](https://drive.google.com/file/d/1p8gQTkps3G5YQ8DgMVWY6eRH5iBmC_tK/view?usp=sharing)
 
 ## Connect with me:
 <p align="center">
