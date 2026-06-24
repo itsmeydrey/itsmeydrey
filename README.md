@@ -1,11 +1,15 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1A1B27,50:24283B,100:7AA2F7&height=250&section=header"/>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ydrey;Aspiring+UI%2FUX+Designer;BSIS+Student+from+the+Philippines;Always+Learning+and+Creating" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ydrey;Aspiring+UI%2FUX+Designer;BSIS+Student+from+the+Philippines;Loves+Learning+and+Creating" />
 </p>
 
+## About Me
 <p align="center">
 Passionate about creating user-friendly and visually appealing digital experiences. Currently pursuing a Bachelor of Science in Information Systems while developing my skills in UI/UX design, web development, and project management.
 </p>
 
+## Details
 - 🌱 Currently learning:
   - Applications Development and Emerging Technologies 1
   - Business Process Management
@@ -19,13 +23,10 @@ Passionate about creating user-friendly and visually appealing digital experienc
   - User Research
 
 - 📫 Reach me at: **ydreyannramirez035@gmail.com**
+- 📄 View my resume: [Resume](https://drive.google.com/file/d/1p8gQTkps3G5YQ8DgMVWY6eRH5iBmC_tK/view?usp=sharing)
 
-- 📄 View my resume:
-  [Resume](https://drive.google.com/file/d/1p8gQTkps3G5YQ8DgMVWY6eRH5iBmC_tK/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
+## Connect with me:
+<p align="center">
 <a href="https://www.linkedin.com/in/ydrey-ann-ramirez-871051320/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
@@ -39,9 +40,8 @@ Passionate about creating user-friendly and visually appealing digital experienc
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
+## Languages and Tools:
+<p align="center">
 <a href="https://www.w3schools.com/css/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 </a>
@@ -63,7 +63,7 @@ Passionate about creating user-friendly and visually appealing digital experienc
 </a>
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsmeydrey&theme=tokyonight&hide_border=true&show_icons=true" height="165"/>
@@ -73,3 +73,5 @@ Passionate about creating user-friendly and visually appealing digital experienc
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeydrey&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:1A1B27&height=120&section=footer"/>
