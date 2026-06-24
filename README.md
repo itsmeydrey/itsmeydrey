@@ -73,7 +73,3 @@ Passionate about creating user-friendly and visually appealing digital experienc
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeydrey&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 </p>
-
-<p align="center">
-  <img width="1200" alt="Footer Image" src="YOUR_FOOTER_IMAGE_LINK_HERE" />
-</p>
