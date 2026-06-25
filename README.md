@@ -21,9 +21,10 @@ Passionate about creating user-friendly and visually appealing digital experienc
 
 <td width="55%">
 
-### 🌐 WAD & RWD Final Project
+### 📅 Class Scheduling System
+**Project Lead | WAD & RWD Final Project**
 
-Designed and developed a responsive web application as part of our academic coursework. Focused on creating intuitive user interfaces, responsive layouts, and an improved user experience across desktop and mobile devices.
+Designed and developed a user-friendly class scheduling application that streamlines the management of classes, teachers, and room assignments for schools.
 
 **Tech Stack:** HTML, CSS, PHP, MySQL
 
@@ -48,21 +49,6 @@ https://github.com/itsmeydrey/wad-rwd-final-project
   - User Research
 
 - 📫 Reach me at: **ydreyannramirez035@gmail.com**
-
-## Connect with me:
-<p align="center">
-<a href="https://www.linkedin.com/in/ydrey-ann-ramirez-871051320/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.facebook.com/ydreyann.ramirez" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.instagram.com/ydrey123/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-</p>
 
 ## Languages and Tools:
 <p align="center">
@@ -92,5 +78,20 @@ https://github.com/itsmeydrey/wad-rwd-final-project
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeydrey&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 </p>
+
+## Connect with me:
+<p align="center">
+<a href="https://www.linkedin.com/in/ydrey-ann-ramirez-871051320/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/ydreyann.ramirez" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/ydrey123/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+</p>
+
+I'm always open to learning opportunities, collaborations, and discussions about UI/UX, web development, and Information Systems.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:1A1B27&height=120&section=footer"/>
