@@ -8,7 +8,7 @@
 <p align="center">
 Passionate Information Systems student with a strong interest in UI/UX design, front-end development, and project management. I enjoy creating user-friendly digital solutions and continuously improving my technical and design skills through academic and personal projects.</p>
 
-## Featured Projects
+## Featured Project
 
 <table>
 <tr>
