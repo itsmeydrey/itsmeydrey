@@ -15,7 +15,7 @@ Passionate about creating user-friendly and visually appealing digital experienc
 <tr>
 <td width="45%">
 
-<img src="YOUR_SCREENSHOT_URL" width="100%" alt="WAD & RWD Final Project"/>
+<img src="image.png" width="150%" alt="WAD & RWD Final Project"/>
 
 </td>
 
