@@ -6,8 +6,7 @@
 
 ## About Me
 <p align="center">
-Passionate about creating user-friendly and visually appealing digital experiences. Currently pursuing a Bachelor of Science in Information Systems while developing my skills in UI/UX design, web development, and project management.
-</p>
+Passionate Information Systems student with a strong interest in UI/UX design, front-end development, and project management. I enjoy creating user-friendly digital solutions and continuously improving my technical and design skills through academic and personal projects.</p>
 
 ## Featured Projects
 
