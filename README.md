@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1A1B27,50:24283B,100:7AA2F7&height=250&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ydrey;Aspiring+UI%2FUX+Designer;BSIS+3+Student;Loves+Learning+and+Creating" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ydrey;Aspiring+UI%2FUX+Designer;ACT+Graduate;BSIS+3+Student;Loves+Learning+and+Creating" />
 </p>
 
 ## About Me
