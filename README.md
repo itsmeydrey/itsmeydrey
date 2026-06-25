@@ -9,6 +9,31 @@
 Passionate about creating user-friendly and visually appealing digital experiences. Currently pursuing a Bachelor of Science in Information Systems while developing my skills in UI/UX design, web development, and project management.
 </p>
 
+## Featured Projects
+
+<table>
+<tr>
+<td width="45%">
+
+<img src="YOUR_SCREENSHOT_URL" width="100%" alt="WAD & RWD Final Project"/>
+
+</td>
+
+<td width="55%">
+
+### 🌐 WAD & RWD Final Project
+
+Designed and developed a responsive web application as part of our academic coursework. Focused on creating intuitive user interfaces, responsive layouts, and an improved user experience across desktop and mobile devices.
+
+**Tech Stack:** HTML, CSS, PHP, MySQL
+
+🔗 **Repository:**  
+https://github.com/itsmeydrey/wad-rwd-final-project
+
+</td>
+</tr>
+</table>
+
 ## Details
 - 🌱 Currently learning:
   - Applications Development and Emerging Technologies 1
